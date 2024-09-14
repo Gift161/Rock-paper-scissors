@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-Game
+A coding project i'm undertaking while taking the Odin-Project
